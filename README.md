@@ -43,7 +43,7 @@
     <a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
        <a href="https://quarto.org/" target="_blank"> <img src="icons/quarto.jpg" alt="Quarto" width="80" height="40"/> </a>     
-       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/> </a>  
+       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="50"/> </a>  
        <a href="https://public.tableau.com/app/profile/tegveerghura" target="_blank"> <img src="icons/tableau.png" alt="Tableau" width="120" height="40"/> </a> 
         
 </p>
