@@ -13,7 +13,7 @@
 
 <h3 align="left">System:</h3>
 <p align="left"> 
-    <a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/" target="_blank"> <img src="master/icons/apple/apple-original.svg" width="110" height="60"/> </a>
+    <a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="110" height="60"/> </a>
 </p>
 
 <h3 align="left">Languages:</h3>
