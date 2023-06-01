@@ -30,8 +30,8 @@
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="icons/pandas.png" alt="Pandas" width="100" height="60"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="icons/numpy.png" alt="NumPy" width="100" height="40"/> </a> 
     <a href="https://matplotlib.org/" target="_blank"> <img src="icons/matplotlib.svg" alt="matplotlib" width="100" height="40"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="icons/tensorflow.svg" alt="tensorflow" width="100" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img src="icons/pytorch.svg" alt="pytorch" width="100" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="icons/tensorflow.svg" alt="tensorflow" width="75" height="40"/> </a>
+    <a href="https://pytorch.org/" target="_blank"> <img src="icons/pytorch.svg" alt="pytorch" width="75" height="40"/> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="icons/opencv.svg" alt="opencv" width="100" height="40"/> </a>
            
 </p>
