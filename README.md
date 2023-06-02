@@ -52,5 +52,5 @@
 
 ![](https://komarev.com/ghpvc/?username=TegveerG&color=green)
 
-![Tegveer's Github stats](https://github-readme-stats.vercel.app/api?username=TegveerG&show_icons=true&theme=tokyonight)
+![Tegveer's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TegveerG&show_icons=true&theme=tokyonight)
 
