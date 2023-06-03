@@ -34,7 +34,7 @@
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="icons/tensorflow.svg" alt="tensorflow" width="75" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="icons/pytorch.svg" alt="pytorch" width="75" height="40"/> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="icons/opencv.svg" alt="opencv" width="100" height="40"/> </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sql" width="100" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sql" width="110" height="50"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
