@@ -21,7 +21,8 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://en.wikipedia.org/wiki/SQL#:~:text=listen)%20S%2DQ%2DL%2C%20%2F%CB%88s,stream%20management%20system%20(RDSMS)." target="_blank"> <img src="icons/SQL.jpg" alt="SQL" width="40" height="40"/> </a> 
      <a href="https://posit.co/products/open-source/rstudio/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/> </a> 
-           
+     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="boot" width="40" height="40"/> </a> 
            
 </p>
 
@@ -33,7 +34,7 @@
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="icons/tensorflow.svg" alt="tensorflow" width="75" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="icons/pytorch.svg" alt="pytorch" width="75" height="40"/> </a>
     <a href="https://opencv.org/" target="_blank"> <img src="icons/opencv.svg" alt="opencv" width="100" height="40"/> </a>
-           
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sql" width="100" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
