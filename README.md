@@ -53,5 +53,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TegveerG&color=green)
 
-![Tegveer's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TegveerG&show_icons=true&theme=tokyonight)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Tegveer's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TegveerG&show_icons=true&theme=tokyonight&count_private=true) | ![Tegveer's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TegveerG&show_icons=true&theme=tokyonight&count_private=true&layout=compact) |
 
