@@ -2,9 +2,7 @@
 
 - 🔭 Over Summer 2023, I worked on Ploomber's open-source JupySQL package! I tested and augmented the package's functionality as well as built an [End-to-End Data Apps with SQL and Jupyter](https://ploomber-sql.readthedocs.io/en/latest/) course!
 
-- 🌱 I’m currently working on several projects: 1. A blockchain project that implements water market smart contracts for a city in Utah. 2. An End-to-End MLOps project on Cricket IPL data to predict the outcome of a delivery using ensemble methods. 3. A cloud computing NLP project utilizing Reddit Data.
-
-- 👯 I’m looking to collaborate on complex real world data problems.
+- 🌱 I’m currently looking for full-time jobs in Data Science and Data Engineering.
 
 - 💬 Ask me about anything AI!
 
